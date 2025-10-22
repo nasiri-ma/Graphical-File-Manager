@@ -115,4 +115,3 @@ Each file or folder operation is logged in MySQL:
 ## Author
 
 **Mohammad Amin Nasiri**  
-Python Developer | File Management Enthusiast
