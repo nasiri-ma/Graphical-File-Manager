@@ -114,4 +114,7 @@ Each file or folder operation is logged in MySQL:
 
 ## Author
 
-**Mohammad Amin Nasiri**  
+Created by **Mohammad Amin Nasiri** — feel free to fork, use, modify or improve.  
+If you find this useful, give it a ⭐ on GitHub!
+
+Happy Hacking! 💻✨
